@@ -1,0 +1,31 @@
+main{
+  border: solid black 1px;
+  height:500px;
+  width:800px;
+  font-size: 0;
+}
+.row1{
+  width:50%;
+  height:40%;
+  display: inline-block;
+}
+.row2{
+  width:33.33%;
+  height:60%;
+  display: inline-block;
+}
+.green{
+  background-color:green;
+}
+.blue{
+  background-color:blue;
+}
+.grey{
+  background-color:grey;
+}
+.black{
+  background-color:black;
+}
+.orange{
+  background-color:orange;
+}
