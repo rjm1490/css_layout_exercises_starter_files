@@ -1,0 +1,70 @@
+li{
+	display:inline;
+}
+.navBar{
+	background-color: #cccccc;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom:25px;
+	font-size:16px;
+}
+.navRight{
+float:right;
+padding-left:10px;
+padding-right:12px;
+}
+a:link{
+	color:purple;
+	font-size:16px;
+	padding-left:15px;
+	padding-right:15px;
+	font-weight:bold;
+}
+a:hover{
+	color:red;
+	font-size:18px;
+}
+/*
+	This is for the search bar, and results
+*/
+.search{
+	width:550px;
+	margin-left:5%;
+	margin-bottom:25px;
+}
+div{
+	display:inline;
+}
+.pagesMenu{
+	width:550px;
+	margin-left:5%;
+	border: solid 1px #eeeeee;
+}
+.pagesCenter{
+	border-left: #eeeeee solid 1px;
+	border-right: #eeeeee solid 1px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.pagesOption{
+	padding-right:15px
+	padding-left:15px;
+}
+table{
+	margin-top:50px;
+	margin-left:5%;
+}
+td{
+	padding-right:8px;
+	padding-top:8px;
+	padding-bottom:8px;
+}
+.col1{
+	padding-right:10px;
+}
+.col2 {
+    color: blue;   
+}
+.col3{
+
+}
