@@ -1,1 +1,42 @@
-
+nav{
+	padding-right: 60px;
+	padding-left: 60px;
+	position: fixed;
+  background-color:grey;
+  width:100%;
+}
+a:link{
+  color:purple;
+}
+a:hover{
+ 	color:red;
+}
+li{
+  display:inline;
+}
+/*
+Under the navbar
+*/
+main{
+  height:300px;
+  width:600px;
+  border: 10px green dotted;
+  top:150px;
+  position: relative;
+  margin:auto;
+}
+.cat{
+  height:200px;
+  width:200xpx;
+  background-color:red;
+  position:relative;
+  right:50px;
+  bottom:50px;
+}
+.dog{
+  height:200px;
+  width:200px;
+  position:relative;
+  left:300px;
+  top:200px;
+}
